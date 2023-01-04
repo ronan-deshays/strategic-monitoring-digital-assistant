@@ -1,7 +1,7 @@
 # Digital assistant for strategic monitoring
 Based on Power Platform and Google Alerts, this assistant collects automaticaly articles from internet and enable user to sort detected article by relevance.
 
-## Keywords to help finding this project
+## Keywords
 
 strategic monitoring ; business intelligence ; legal watch ; regulatory surveillance ; scientific monitoring
 
