@@ -51,7 +51,7 @@ Select the "rss_gatherer_power_automate_package.zip" file that you previously do
 
 ### Power Apps articles viewer
 
-1. Download on this GitHub repository the latest release of "user_interface_power_apps_package.zip" ;
+1. Download on this GitHub repository the [latest release asset](https://github.com/ronan-deshays/strategic-monitoring-digital-assistant/releases) named "user_interface_power_apps_package.zip" ;
 2. Go to the Power Apps editor website > Apps > Import canvas app > Upload a .zip package file ;
 Select the "user_interface_power_apps_package.zip" file that you previously downloaded ;
 3. Go through configuration steps as you like > Click the "Import" button > Open and test your app in the Power Apps Studio ;
